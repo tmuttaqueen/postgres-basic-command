@@ -41,3 +41,9 @@ GRANT ALL PRIVILEGES ON DATABASE test_db to tanveer;
 ```
 psql -U tanveer -d test_db
 ```
+
+#### List all tables in a database after login with that database
+```
+\d
+```
+
