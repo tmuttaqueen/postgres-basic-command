@@ -22,7 +22,7 @@ create user tanveer with password '123456';
 alter user tanveer with superuser;
 ```
 
-#### Creating new schema
+#### Creating new database
 ```
 create database test_db;
 ```
