@@ -47,3 +47,9 @@ psql -U tanveer -d test_db
 \d
 ```
 
+#### Describe a table
+```
+\d table_name
+```
+
+
